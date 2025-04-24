@@ -41,10 +41,10 @@ const AboutPage: React.FC = () => {
             <div className="w-32 h-32 mx-auto bg-lime-100 rounded-full mb-4 flex items-center justify-center">
               <span className="text-3xl font-bold text-lime-700">RS</span>
             </div>
-            <h3 className="text-lg font-semibold text-stone-800">Rahul Sharma</h3>
+            <h3 className="text-lg font-semibold text-stone-800">Piyush Singh</h3>
             <p className="text-stone-500">Founder & CEO</p>
             <p className="text-stone-600 mt-2 text-sm">
-              Former farmer with 15 years of experience in agricultural supply chains
+              Former student of Chaudhary Devi Lal State Institute of Engineering & Technology 
             </p>
           </div>
           
@@ -53,10 +53,10 @@ const AboutPage: React.FC = () => {
             <div className="w-32 h-32 mx-auto bg-lime-100 rounded-full mb-4 flex items-center justify-center">
               <span className="text-3xl font-bold text-lime-700">AP</span>
             </div>
-            <h3 className="text-lg font-semibold text-stone-800">Anjali Patel</h3>
+            <h3 className="text-lg font-semibold text-stone-800">Garv Dagar</h3>
             <p className="text-stone-500">Chief Technology Officer</p>
             <p className="text-stone-600 mt-2 text-sm">
-              Technology expert focused on creating accessible digital solutions for rural markets
+              Former student of Chaudhary Devi Lal State Institute of Engineering & Technology
             </p>
           </div>
           
@@ -65,7 +65,7 @@ const AboutPage: React.FC = () => {
             <div className="w-32 h-32 mx-auto bg-lime-100 rounded-full mb-4 flex items-center justify-center">
               <span className="text-3xl font-bold text-lime-700">MG</span>
             </div>
-            <h3 className="text-lg font-semibold text-stone-800">Manish Gupta</h3>
+            <h3 className="text-lg font-semibold text-stone-800">The Camera Wallah</h3>
             <p className="text-stone-500">Operations Director</p>
             <p className="text-stone-600 mt-2 text-sm">
               Logistics expert with experience in managing agricultural supply chains across India
