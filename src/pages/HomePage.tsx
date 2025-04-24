@@ -36,7 +36,7 @@ const HomePage: React.FC = () => {
             </div>
             <div className="md:w-1/2">
               <img 
-                src="https://images.pexels.com/photos/2882630/pexels-photo-2882630.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                src="https://www.pexels.com/photo/close-up-photo-of-fresh-produce-vegetables-7782981/" 
                 alt="Farmer with crops" 
                 className="rounded-lg shadow-xl w-full object-cover h-80 md:h-96"
               />
